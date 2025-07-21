@@ -20,6 +20,6 @@ I am believing that this little app will help you stay organized and keep track 
 3. Get productive!
 
 ## ୨ৎ Dev info
-Made by *icluvana* ◝(ᵔᗜᵔ)◜
+Made by *icluvjm* ◝(ᵔᗜᵔ)◜
 (A university student who tries to be better at coding.. I hope you like this little page that i did! I also love cute symbols if you coulnd't tell by now :3 Also thanks for stopping by!)
 
