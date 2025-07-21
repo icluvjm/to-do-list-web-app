@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ᰔ To-Do List ⋆˚꩜｡</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="side-decor left">
+    ⋆｡𖦹°⭒˚｡⋆
+  </div>
+  <div class="side-decor right">
+    · · ─ ·ʚɞ· ─ · ·
+  </div>
+
+  <div class="container">
+    <label class="switch" title="Toggle dark mode">
+      <input type="checkbox" id="darkModeToggle" />
+      <span class="slider"></span>
+    </label>
+
+    <h1>⋆˚₊‧ᰔ To-Do List ˚₊‧⋆</h1>
+
+    <div class="input-container">
+      <input type="text" id="taskInput" placeholder=" ‧₊˚ Enter a task... ✧" />
+      <button onclick="addTask()">➕ Add</button>
+    </div>
+
+    <ul id="taskList"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
